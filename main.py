@@ -37,8 +37,8 @@ async def main():
                                   "intro":"Добрый день"
                                        },
                               id = "Good day",
-                              hour = 9,
-                              minute = 35)
+                              hour = 7,
+                              minute = 55)
             try:
                 log.info("Планировщик и бот запущены")
                 scheduler.start()
